@@ -1,0 +1,260 @@
+team,color
+Air Force,#003087
+Akron,#041E42
+Alabama,#9E1B32
+Appalachian State,#222222
+Arizona,#CC0033
+Arizona State,#942139
+Arkansas,#9D2235
+Arkansas State,#CC092F
+Army,#9E7E38
+Auburn,#0C2340
+Ball State,#BA0C2F
+Baylor,#154734
+Boise State,#0033A0
+Boston College,#8A100B
+Bowling Green,#402419
+Buffalo,#005BBB
+BYU,#002E5D
+California,#003262
+Central Michigan,#6A0032
+Charlotte,#046A38
+Cincinnati,#D50A0A
+Clemson,#F56600
+Coastal Carolina,#008E97
+Colorado,#CFB87C
+Colorado State,#215732
+Connecticut,#003069
+Duke,#00539B
+East Carolina,#4B1869
+Eastern Michigan,#006633
+FIU,#081E3F
+Florida,#FA4616
+Florida Atlantic,#003366
+Florida State,#782F40
+Fresno State,#C41230
+Georgia,#BA0C2F
+Georgia Southern,#041E42
+Georgia State,#0039A6
+Georgia Tech,#B3A369
+Hawaii,#024731
+Houston,#C8102E
+Illinois,#E84A27
+Indiana,#990000
+Iowa,#FFCD00
+Iowa State,#C8102E
+Jacksonville State,#D11F3E
+James Madison,#450084
+Kansas,#0051BA
+Kansas State,#512888
+Kent State,#003776
+Kentucky,#0033A0
+Liberty,#A41E34
+Louisiana,#CE181E
+Louisiana-Monroe,#882D17
+Louisiana Tech,#003087
+Louisville,#AD0000
+LSU,#461D7C
+Marshall,#00B140
+Maryland,#E03A3E
+Memphis,#0046AD
+Miami (FL),#F47321
+Miami (OH),#B31B1B
+Michigan,#00274C
+Michigan State,#18453B
+Middle Tennessee,#0066CC
+Minnesota,#7A0019
+Mississippi State,#660000
+Missouri,#F1B82D
+Navy,#00205B
+NC State,#CC0000
+Nebraska,#E41C38
+Nevada,#003366
+New Mexico,#D50032
+New Mexico State,#861F41
+North Carolina,#4B9CD3
+North Texas,#00853E
+Northern Illinois,#A6192E
+Northwestern,#4E2A84
+Notre Dame,#C99700
+Ohio,#00703C
+Ohio State,#BB0000
+Oklahoma,#841617
+Oklahoma State,#FF7300
+Old Dominion,#003057
+Ole Miss,#006BA6
+Oregon,#154733
+Oregon State,#DC4405
+Penn State,#041E42
+Pittsburgh,#003594
+Purdue,#CEB888
+Rice,#00205B
+Rutgers,#CC0033
+San Diego State,#A6192E
+San Jose State,#0055A2
+SMU,#C0043F
+South Alabama,#00205B
+South Carolina,#73000A
+South Florida,#006747
+Southern Miss,#FFB612
+Stanford,#8C1515
+Syracuse,#F76900
+TCU,#4D1979
+Temple,#9D2235
+Tennessee,#FF8200
+Texas,#BF5700
+Texas A&M,#500000
+Texas State,#501214
+Texas Tech,#CC0000
+Toledo,#15397F
+Troy,#7C878E
+Tulane,#006747
+Tulsa,#0066CC
+UAB,#007A33
+UCF,#BBA14F
+UCLA,#2774AE
+UConn,#003069
+UMass,#881C1C
+UNLV,#D8262C
+USC,#990000
+UTEP,#041E42
+UTSA,#0C2340
+Utah,#CC0000
+Utah State,#0F2439
+Vanderbilt,#866D4B
+Virginia,#232D4B
+Virginia Tech,#861F41
+Wake Forest,#9E7E38
+Washington,#4B2E83
+Washington State,#981E32
+West Virginia,#002855
+Western Kentucky,#D40A2F
+Western Michigan,#8B5B29
+Wisconsin,#C5050C
+Wyoming,#FFC425
+Abilene Christian,#4E2A84
+Alabama A&M,#88131A
+Alabama State,#000000
+Albany,#461D7C
+Alcorn State,#582C83
+American International,#FDB913
+Arkansas-Pine Bluff,#231F20
+Austin Peay,#CC092F
+Bethune-Cookman,#5E2129
+Big South,#1B365D
+Brown,#4E3629
+Bryant,#A89968
+Bucknell,#FF5F00
+Butler,#003087
+Cal Poly,#0B6B3A
+Campbell,#F47A20
+Central Arkansas,#4F2C85
+Central Connecticut,#0033A0
+Charleston Southern,#002A5C
+Chattanooga,#0C2340
+Clark Atlanta,#B31B1B
+Colgate,#862633
+College of Charleston,#6C1D45
+Columbia,#0088CE
+Cornell,#B31B1B
+Dartmouth,#00693E
+Davidson,#D52B1E
+Dayton,#CF0A2C
+Delaware,#00539B
+Delaware State,#E51B24
+Drake,#0061AA
+Duquesne,#041E42
+East Tennessee State,#041E42
+Eastern Illinois,#0033A0
+Eastern Kentucky,#800000
+Eastern Washington,#E30B17
+Elon,#7A0019
+Florida A&M,#00563F
+Fordham,#890024
+Furman,#582C83
+Gardner-Webb,#BE1E2D
+Georgetown,#818181
+Grambling State,#FFD100
+Harvard,#A51C30
+Holy Cross,#512698
+Howard,#00205B
+Idaho,#B3995D
+Idaho State,#E87722
+Illinois State,#D31145
+Incarnate Word,#E4002B
+Indiana State,#0072CE
+Jackson State,#002147
+Kennesaw State,#FDB913
+Lafayette,#781214
+Lamar,#A6192E
+Lehigh,#6B4C27
+Long Island,#7AC9E3
+Maine,#003052
+Marist,#C8102E
+McNeese State,#00205B
+Mercer,#FF8200
+Merrimack,#142952
+Mississippi Valley State,#007749
+Missouri State,#4E2A84
+Monmouth,#013E7C
+Montana,#660000
+Montana State,#003366
+Morehead State,#0071BC
+Morgan State,#0077C8
+Murray State,#0C2340
+New Hampshire,#003366
+Nicholls State,#C8102E
+Norfolk State,#18453B
+North Alabama,#4F2C85
+North Carolina A&T,#0033A0
+North Carolina Central,#990000
+North Dakota,#009A44
+North Dakota State,#115740
+Northern Arizona,#003366
+Northern Colorado,#002F6C
+Northern Iowa,#4F2C85
+Northwestern State,#4F2C85
+Penn,#990000
+Portland State,#154734
+Prairie View A&M,#5C068C
+Presbyterian,#00205B
+Princeton,#FF8F00
+Rhode Island,#0098D8
+Richmond,#BA0C2F
+Robert Morris,#041E42
+Sacramento State,#043927
+Sacred Heart,#C8102E
+Sam Houston State,#FF8200
+Samford,#002F6C
+San Diego,#003057
+Savannah State,#F66733
+Southeast Missouri State,#D50032
+Southeastern Louisiana,#006A4D
+Southern,#003087
+Southern Illinois,#542E91
+South Carolina State,#4F2C85
+South Dakota,#A6192E
+South Dakota State,#0033A0
+Southern Utah,#B30C2B
+Stephen F. Austin,#4F2C85
+Stetson,#00563F
+Stonehill,#A2AAAD
+Stony Brook,#C60C30
+Tarleton State,#582C83
+Tennessee State,#00205B
+Tennessee Tech,#7C878E
+Texas Southern,#660000
+The Citadel,#A7C6ED
+Towson,#FFB612
+UC Davis,#002855
+Utah Tech,#D22630
+Valparaiso,#866D4B
+Villanova,#003366
+VMI,#A6192E
+Wagner,#006B54
+Weber State,#4F2C85
+Western Carolina,#633194
+Western Illinois,#6F263D
+William & Mary,#115740
+Wofford,#A89968
+Yale,#0F4D92

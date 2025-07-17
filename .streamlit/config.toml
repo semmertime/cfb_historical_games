@@ -1,0 +1,20 @@
+[theme]
+base = "light"
+primaryColor = "#7BAFD4"               # North Carolina Blue (accents, buttons, etc.)
+backgroundColor = "#FFFDF6"            # Cream/Ivory
+secondaryBackgroundColor = "#F0F0F5"   # Light Grey (main containers, e.g., tables)
+textColor = "#363636"                  # Dark grey for all text
+font = "sans serif"
+
+[theme.sidebar]
+backgroundColor = "#11172B"            # Very dark navy blue sidebar
+textColor = "#FFFDF6"                  # Cream text for sidebar
+borderColor = "#7BAFD4"                # (Optional) Light blue for sidebar borders or focus
+
+# You can also add:
+# [theme.button]
+# primaryColor = "#7BAFD4"             # Button color if you want to specify
+
+# [theme.widget]
+# backgroundColor = "#F0F0F5"
+# textColor = "#363636"
